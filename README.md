@@ -1,3 +1,33 @@
+## :wave: Hey there!
+
+I am **Palm Kamaa** 👨‍💻. I am a graduate at Jomo Kenyatta University of Technology and Agriculture, (JKUAT) pursued B.Sc Matheatics and Computer Science. I have specialized in **Cybersecurity**, **Artificial Intelligence**, and **Software Development**. I enjoy using technology to craft secure, intelligent, and impactful solutions to modern challenges :desktop_computer:. I’m passionate about innovation and believe in the power of code to transform the world around us :mag_right:. I’m constantly learning, building, and securing — and I thrive on exploring new technologies and tackling real-world problems head-on :books:.
+
+<br/>
+
+## :blush: About Me
+
+```python
+def About_Palm():
+    my_information = {
+        "name": "Palm Kamaa",
+        "education": "BSc. Mathematics and Computer Science, JKUAT",
+        "code_skills": "Python, Bash, HTML, JavaScript, Flask, SQL",
+        "learning_goals": [
+            "Master Cloud Security",
+            "Develop Robust ML Models",
+            "Explore Advanced Threat Intelligence"
+        ],
+        "interests": [
+            "Tech Blogging",
+            "Chess",
+            "Cybersecurity Challenges",
+            "Digital Forensics"
+        ],
+        "me": "Building secure, smart systems — one line of code at a time!"
+    }
+    return my_information
+```
+
 ## 🛠️ Technical Tools
 
 ### 📜 Languages & Scripting
@@ -9,6 +39,7 @@
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
+
 
 ### 🔐 Security & Networking
 
