@@ -1,6 +1,6 @@
 ## :wave: Hey there!
 
-I am **Palm Kamaa** 👨‍💻. I am a graduate at Jomo Kenyatta University of Technology and Agriculture, (JKUAT) pursued B.Sc Matheatics and Computer Science. I have specialized in **Cybersecurity**, **Artificial Intelligence**, and **Software Development**. I enjoy using technology to craft secure, intelligent, and impactful solutions to modern challenges :desktop_computer:. I’m passionate about innovation and believe in the power of code to transform the world around us :mag_right:. I’m constantly learning, building, and securing — and I thrive on exploring new technologies and tackling real-world problems head-on :books:.
+I am **Palm Kamaa** 👨‍💻. I am a graduate at Jomo Kenyatta University of Technology and Agriculture, (JKUAT) pursued B.Sc Matheatics and Computer Science. I have specialized in **Cybersecurity**, **Artificial Intelligence**. I enjoy using technology to craft secure, intelligent, and impactful solutions to modern challenges :desktop_computer:. I’m passionate about innovation and believe in the power of code to transform the world around us :mag_right:. I’m constantly learning, building, and securing — and I thrive on exploring new technologies and tackling real-world problems head-on :books:.
 
 <br/>
 
