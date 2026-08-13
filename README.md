@@ -11,15 +11,13 @@ def About_Palm():
     my_information = {
         "name": "Palm Kamaa",
         "education": "BSc. Mathematics and Computer Science, JKUAT",
-        "code_skills": "Python, Bash, HTML, JavaScript, Flask, SQL",
+        "code_skills": "Python, Bash, HTML, JavaScript, SQL",
         "learning_goals": [
             "Master Cloud Security",
-            "Develop Robust ML Models",
             "Explore Advanced Threat Intelligence"
+            "Explore and learn about Cryptography"
         ],
         "interests": [
-            "Tech Blogging",
-            "Chess",
             "Cybersecurity Challenges",
             "Digital Forensics"
         ],
@@ -83,10 +81,11 @@ def About_Palm():
 
 ## 📊 GitHub Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Palmkamaa&layout=donut&theme=radical)](https://github.com/PalmKamaa )
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Palmkamaa&theme=radical&show_icons=true)](https://github.com/PalmKamaa )
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PalmKamaa&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Palmkamaa&layout=donut&theme=radical)](https://github.com/PalmKamaa)
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Palmkamaa&theme=radical&show_icons=true)](https://github.com/PalmKamaa)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PalmKamaa&theme=radical)](https://git.io/streak-stats) 
 ---
 
 <br/>
