@@ -80,12 +80,13 @@ def About_Palm():
 <br/>
 
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Palmkamaa&layout=donut&theme=radical)](https://github.com/PalmKamaa)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PalmKamaa&show_icons=true&theme=radical)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Palmkamaa&theme=radical&show_icons=true)](https://github.com/PalmKamaa)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PalmKamaa&layout=donut&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=PalmKamaa&theme=radical)](https://git.io/streak-stats) 
+![GitHub Streak](https://streak-stats.demolab.com/?user=PalmKamaa&theme=radical)
 ---
 
 <br/>
