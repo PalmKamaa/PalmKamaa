@@ -1,6 +1,9 @@
 ## :wave: Hey there!
 
-I am **Palm Kamaa** 👨‍💻. I am a graduate at Jomo Kenyatta University of Technology and Agriculture, (JKUAT) pursued B.Sc Matheatics and Computer Science. I have specialized in **Cybersecurity**, **Artificial Intelligence**. I enjoy using technology to craft secure, intelligent, and impactful solutions to modern challenges :desktop_computer:. I’m passionate about innovation and believe in the power of code to transform the world around us :mag_right:. I’m constantly learning, building, and securing — and I thrive on exploring new technologies and tackling real-world problems head-on :books:.
+I'm **Palm Kinuthia Kamau** 👨‍💻, a Mathematics and Computer Science professional interested in **Cybersecurity and building practical technology solutions**.
+My interests include security operations, threat detection, incident investigation and networking :desktop_computer:. I enjoy hands-on learning, exploring new technologies, solving technical problems, and applying what I learn to real-world challenges :mag_right:.
+I'm always looking to improve my skills, learn from others, and contribute to meaningful projects :books:.
+**Learning, building, and making technology more secure.** 🔐
 
 <br/>
 
