@@ -79,5 +79,5 @@ I’m open to new ideas, collaborations, and exciting challenges in tech.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palmkamauk@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palm-kamau-90698b26a/)
-[!Portfolio Website](https://portfolio-psi-liart-71.vercel.app/). 
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-psi-liart-71.vercel.app/) 
 
